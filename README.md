@@ -9,11 +9,11 @@ Engineers from a power utility company regularly visit customer locations to rep
 
 ## 🎯 Objectives
 
-In this exercise, you will:
+In this exercise, I am:
 
-- Create a new .NET MAUI application
-- Design a basic XAML page layout
-- Use common UI elements such as:
+- Creating a new .NET MAUI application
+- Designing a basic XAML page layout
+- Using common UI elements such as:
   - `Entry` for titles
   - `Editor` for detailed notes
   - `Button` to save the input
@@ -32,9 +32,3 @@ In this exercise, you will:
 - .NET MAUI
 - XAML (Extensible Application Markup Language)
 - C#
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/engineer-notes-app.git
