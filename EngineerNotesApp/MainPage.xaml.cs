@@ -2,23 +2,22 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
+        string _filename = Path.Combine(FileSystem.AppDataDirectory, "notes.txt");
+
 
         public MainPage()
         {
             InitializeComponent();
+            checkFileExists();
         }
 
-        private void OnCounterClicked(object? sender, EventArgs e)
+        public void checkFileExists()
         {
-            count++;
+            if (File.Exists(_filename))
+            {
+                editor.Text = File.ReadAllText(_filename);
+            }
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
-
-            SemanticScreenReader.Announce(CounterBtn.Text);
         }
     }
 }

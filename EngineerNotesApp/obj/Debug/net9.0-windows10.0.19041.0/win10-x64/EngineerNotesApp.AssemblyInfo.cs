@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EngineerNotesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+92c541a2acb6623c58909a2622449b09c618ed52")]
 [assembly: System.Reflection.AssemblyProductAttribute("EngineerNotesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EngineerNotesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

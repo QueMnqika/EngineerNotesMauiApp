@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TZTYkf1Cm+g=",
+  "dgSpecHash": "u6uEQZyaCt8=",
   "success": true,
-  "projectFilePath": "C:\\MAUI\\PRACTISE\\EngineerNotesAppSolution\\EngineerNotesApp\\EngineerNotesApp.csproj",
+  "projectFilePath": "C:\\MAUI\\PRACTISE\\8.1. EngineerNotesMauiApp\\EngineerNotesApp\\EngineerNotesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Que Mnqika\\.nuget\\packages\\googlegson\\2.11.0.5\\googlegson.2.11.0.5.nupkg.sha512",
     "C:\\Users\\Que Mnqika\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",

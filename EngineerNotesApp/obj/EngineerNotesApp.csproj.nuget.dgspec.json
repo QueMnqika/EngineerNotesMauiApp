@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MAUI\\PRACTISE\\EngineerNotesAppSolution\\EngineerNotesApp\\EngineerNotesApp.csproj": {}
+    "C:\\MAUI\\PRACTISE\\8.1. EngineerNotesMauiApp\\EngineerNotesApp\\EngineerNotesApp.csproj": {}
   },
   "projects": {
-    "C:\\MAUI\\PRACTISE\\EngineerNotesAppSolution\\EngineerNotesApp\\EngineerNotesApp.csproj": {
+    "C:\\MAUI\\PRACTISE\\8.1. EngineerNotesMauiApp\\EngineerNotesApp\\EngineerNotesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MAUI\\PRACTISE\\EngineerNotesAppSolution\\EngineerNotesApp\\EngineerNotesApp.csproj",
+        "projectUniqueName": "C:\\MAUI\\PRACTISE\\8.1. EngineerNotesMauiApp\\EngineerNotesApp\\EngineerNotesApp.csproj",
         "projectName": "EngineerNotesApp",
-        "projectPath": "C:\\MAUI\\PRACTISE\\EngineerNotesAppSolution\\EngineerNotesApp\\EngineerNotesApp.csproj",
+        "projectPath": "C:\\MAUI\\PRACTISE\\8.1. EngineerNotesMauiApp\\EngineerNotesApp\\EngineerNotesApp.csproj",
         "packagesPath": "C:\\Users\\Que Mnqika\\.nuget\\packages\\",
-        "outputPath": "C:\\MAUI\\PRACTISE\\EngineerNotesAppSolution\\EngineerNotesApp\\obj\\",
+        "outputPath": "C:\\MAUI\\PRACTISE\\8.1. EngineerNotesMauiApp\\EngineerNotesApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

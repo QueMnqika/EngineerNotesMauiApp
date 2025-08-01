@@ -8,7 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EngineerNotesApp
-build_property.ProjectDir = C:\MAUI\PRACTISE\EngineerNotesAppSolution\EngineerNotesApp\
+build_property.ProjectDir = C:\MAUI\PRACTISE\8.1. EngineerNotesMauiApp\EngineerNotesApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -22,31 +22,31 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/MAUI/PRACTISE/EngineerNotesAppSolution/EngineerNotesApp/App.xaml]
+[C:/MAUI/PRACTISE/8.1. EngineerNotesMauiApp/EngineerNotesApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EngineerNotesApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/MAUI/PRACTISE/EngineerNotesAppSolution/EngineerNotesApp/AppShell.xaml]
+[C:/MAUI/PRACTISE/8.1. EngineerNotesMauiApp/EngineerNotesApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EngineerNotesApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/MAUI/PRACTISE/EngineerNotesAppSolution/EngineerNotesApp/MainPage.xaml]
+[C:/MAUI/PRACTISE/8.1. EngineerNotesMauiApp/EngineerNotesApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EngineerNotesApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/MAUI/PRACTISE/EngineerNotesAppSolution/EngineerNotesApp/Resources/Styles/Colors.xaml]
+[C:/MAUI/PRACTISE/8.1. EngineerNotesMauiApp/EngineerNotesApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EngineerNotesApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/MAUI/PRACTISE/EngineerNotesAppSolution/EngineerNotesApp/Resources/Styles/Styles.xaml]
+[C:/MAUI/PRACTISE/8.1. EngineerNotesMauiApp/EngineerNotesApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = EngineerNotesApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
